@@ -1,2 +1,2 @@
-# Autotests-
+# Autotests
 Python + Pytest + Requests
