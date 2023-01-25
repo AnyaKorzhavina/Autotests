@@ -11,7 +11,7 @@ print(response_post.text)
 
 response_put = requests.put('https://pokemonbattle.me:5000/pokemons', headers={'trainer_token': token},json={
     "pokemon_id": 3348,
-    "name": "German",
+    "name": "Lady",
     "photo": ""
 })
 print(response_put.text)
